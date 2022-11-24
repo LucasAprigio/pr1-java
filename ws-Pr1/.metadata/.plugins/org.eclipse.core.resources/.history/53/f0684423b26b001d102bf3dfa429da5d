@@ -1,0 +1,10 @@
+package br.com.Lucas.Pr1.services;
+
+import br.com.Lucas.Pr1.repositories.UsuarioRepository;
+
+import br.com.Lucas.Pr1.repositories.UsuarioRepository;
+
+public class UsuarioService {
+
+		private UsuarioRepository _usuarioRepository
+}

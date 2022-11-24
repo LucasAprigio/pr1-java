@@ -1,0 +1,5 @@
+package br.com.Lucas.Pr1.repositories;
+
+public interface UsuarioRepository extends JpaRepository<>{
+
+}

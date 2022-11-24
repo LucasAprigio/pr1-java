@@ -1,0 +1,16 @@
+package br.com.Lucas.Pr1.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import br.com.Lucas.Pr1.repositories.FuncionarioRepository;
+
+
+public class FuncionarioService {
+
+		@Autowired
+		private FuncionarioRepository _funcionarioRepository;
+		
+		public List<Funcionario> gettAll(){
+			
+		}
+}
